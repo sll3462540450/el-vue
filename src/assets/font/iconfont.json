@@ -1,0 +1,65 @@
+{
+  "id": "1876905",
+  "name": "饿了么",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "49757",
+      "name": "C",
+      "font_class": "c",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "625137",
+      "name": "点",
+      "font_class": "dian",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "3425673",
+      "name": "点",
+      "font_class": "dian1",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "5004706",
+      "name": "错",
+      "font_class": "cuo",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "6206500",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "8306664",
+      "name": "竖线",
+      "font_class": "shuxian",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "10463200",
+      "name": "竖线",
+      "font_class": "shuxian1",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "14232472",
+      "name": "右",
+      "font_class": "you",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    }
+  ]
+}
